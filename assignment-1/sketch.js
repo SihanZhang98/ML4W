@@ -50,7 +50,7 @@ function draw() {
     image(img, width / 2, height / 2 - 120);
     textSize(32);
     fill(255);
-    text("You found it!", width / 2 - 10, height / 2 + 100);
+    text('You found'+' '+ currentWord+'!', width / 2 - 28, height / 2 + 100);
   }
 }
 
