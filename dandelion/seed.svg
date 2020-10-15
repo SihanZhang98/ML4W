@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="319px" viewBox="0 0 245 319" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Asset_6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.7%" y="-8.5%" width="123.0%" height="116.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.564632278   0 0 0 0 0.764393829   0 0 0 0 0.851509354  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset_6" filter="url(#filter-1)" transform="translate(6.000000, 5.000000)">
+            <g id="Layer_1-2" stroke="#231F20" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25">
+                <path d="M0.12,0.68 L120.92,197.46 C206.74,184.82 221.92,223.24 221.92,223.24" id="Path"></path>
+                <path d="M186.9,235 C186.9,235 176.63,195.53 120.9,197.46 C188.32,188.77 201.42,220.26 201.42,220.26" id="Path"></path>
+                <path d="M164.56,246.28 C164.56,246.28 162.73,225.62 120.92,197.46 C165.99,204.65 171.67,228.21 171.67,228.21" id="Path"></path>
+                <path d="M146.62,257.39 C146.62,257.39 108.26,227.73 120.92,197.46 C147.55,218.19 150.16,240.9 150.16,240.9" id="Path"></path>
+                <path d="M116.42,259.4 C116.42,259.4 93.07,239.25 120.92,197.46 C109.32,218.29 130.92,248.88 130.92,248.88" id="Path"></path>
+                <path d="M93.6,275.62 C93.6,275.62 81.69,233.62 120.92,197.46 C84.79,247.08 114,274.87 114,274.87" id="Path"></path>
+                <path d="M87.06,294.3 C87.06,294.3 65.4,247 120.92,197.46" id="Path"></path>
+            </g>
+            <g id="Layer_3">
+                <path d="M11.36,18 C11.36,18 13.47,17 11.43,14.29 C9.39,11.58 0.12,0 0.12,0 C0.12,0 6.44,16.32 7.44,17.22 C8.44,18.12 9.64,19.65 11.36,18 Z" id="Path" fill="#231F20"></path>
+                <circle id="Oval" fill="#231F20" cx="221.23" cy="224.45" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="117" cy="279.45" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="199.8" cy="220.1" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="95.16" cy="276.47" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="87.26" cy="295.94" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="118.79" cy="260.69" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="131.8" cy="249.86" r="3.48"></circle>
+                <circle id="Oval" fill="#231F20" cx="148.35" cy="259.67" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="152.29" cy="242.74" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="165.03" cy="248.33" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="173.26" cy="229.71" r="4.62"></circle>
+                <circle id="Oval" fill="#231F20" cx="187.51" cy="236.24" r="4.62"></circle>
+                <path d="M11.36,18 C11.36,18 13.47,17 11.43,14.29 C9.39,11.58 0.12,0 0.12,0 C0.12,0 6.44,16.32 7.44,17.22 C8.44,18.12 9.64,19.65 11.36,18 Z" id="Path" fill="#636466"></path>
+                <circle id="Oval" fill="#B2A0A0" cx="221.23" cy="224.45" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="117" cy="279.45" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="199.8" cy="220.1" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="95.16" cy="276.47" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="87.26" cy="295.94" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="118.79" cy="260.69" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="131.8" cy="249.86" r="3.48"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="148.35" cy="259.67" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="152.29" cy="242.74" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="165.03" cy="248.33" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="173.26" cy="229.71" r="4.62"></circle>
+                <circle id="Oval" fill="#B2A0A0" cx="187.51" cy="236.24" r="4.62"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
